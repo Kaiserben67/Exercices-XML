@@ -3,6 +3,7 @@ Ce document contient une liste d’etudiants (au moins 3) qui suivent une format
 La formation possède un intitulé, une durée en mois, une date de démarrage et une date de fin.
 Chaque etudiant possède : nom, prénom, date de naissance, adresse email.<!--> 
 
+
 <?xml version="1.0" encoding="UTF-8"?>
 
 <formations>
@@ -14,26 +15,26 @@ Chaque etudiant possède : nom, prénom, date de naissance, adresse email.<!-->
         <date de démarrage>2024-09-23</date de démarrage>
         <date de fin>2025-02-28</date de fin>
         
-        <étudiant id="1">
+        <etudiant id="1">
             <nom>Alemany</nom>
             <prenom>Justin</prenom>
             <date_de_naissance>1981-08-04</dateDeNaissance>
             <adresse_email>justin@live.fr</adresse_email>
-        <étudiant>
+        <etudiant>
         
-        <étudiant id="2">
+        <etudiant id="2">
             <nom>Biehler</nom>
             <prenom>Caroline</prenom>
             <date_de_naissance>1981-08-04</dateDeNaissance>
             <adresse_email>caro@live.fr</adresse_email>
-        <étudiant>
+        <etudiant>
 
-        <étudiant id="3">
+        <etudiant id="3">
             <nom>Cetin</nom>
             <prenom>Hülya</prenom>
             <date_de_naissance>1981-08-04</dateDeNaissance>
             <adresse_email>hülya@live.fr</adresse_email>
-        <étudiant>
+        <etudiant>
 
     <formation>       
 
