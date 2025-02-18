@@ -24,7 +24,7 @@ Faites quelques recherches d’offres d’emploi de développeurs sur le web pou
 
         <offre_d_emploi Id="1">
         <l_intitulé>
-        Développeur PHP à Paris.
+        Developpeur PHP à Paris.
         </l_intitulé>
 
         <la_ville>
@@ -32,11 +32,20 @@ Faites quelques recherches d’offres d’emploi de développeurs sur le web pou
         </la_ville>
 
         <une_description_du_poste>
-
+        Vous êtes passionné(e) par le développement fullstack et souhaitez évoluer dans un environnement 
+        stimulant, au sein d une entreprise innovante ? A Streetcar, filiale d Ulysse Transport spécialisée
+        dans les outils métier pour le transport de personnes, recherche un Développeur Fullstack (H/F) pour
+        renforcer son équipe technique et contribuer à la refonte totale from scratch de son système
+        d information.
         </une_description_du_poste>
 
         <une_liste_de_compétences_requises>
-
+        Maîtrise du langage de programmation PHP et le framework Symphony
+        Maîtrise du langage de développement frontend Angular (la maîtrise d un autre framework TypeScript est
+        un plus)
+        Connaissance des APIs REST et bases de données SQL/NoSQL.
+        Écrire, tester et déboguer du code PHP pour des applications web
+        Être le garant de la qualité du code
         </une_liste_de_compétences_requises>
 
         <une_date_de_démarrage>
@@ -54,7 +63,7 @@ Faites quelques recherches d’offres d’emploi de développeurs sur le web pou
 
     <offre_d_emploi Id="2">
         <l_intitulé>
-        Développeur JAVA à Mulhouse
+        Developpeur JAVA à Mulhouse
         </l_intitulé>
 
         <la_ville> 
@@ -92,7 +101,7 @@ Faites quelques recherches d’offres d’emploi de développeurs sur le web pou
 
     <offre_d_emploi Id="3">
         <l_intitulé>
-        Développeur NodeJS à Toulouse
+        Developpeur NodeJS à Toulouse
         </l_intitulé>
 
         <la_ville>
@@ -100,9 +109,22 @@ Faites quelques recherches d’offres d’emploi de développeurs sur le web pou
         </la_ville>
 
         <une_description_du_poste>
+        Au sein d une équipe dynamique et passionnée par les nouvelles technologies où la collaboration et
+        l innovation sont au cœur de notre philosophie, vous participerez au développement et à l évolution de nos 
+        applications backend optimisées pour le cloud. En tant que développeur Node.js, vous participerez au 
+        développement de solutions innovantes, en exploitant les technologies cloud les plus récentes. Votre rôle 
+        sera de développer des API performantes, d'assurer la scalabilité des services et d'automatiser les 
+        déploiements. Vous serez impliqué dans toutes les phases du cycle de vie des projets, de la conception à la 
+        mise en production.
         </une_description_du_poste>
 
         <une_liste_de_compétences_requises>
+        Expérience confirmée (minimum 5/6 ans) en développement backend avec Node.js et TypeScript
+        Une première expérience en développement frontend
+        Bonne connaissance des bases de données SQL et NoSQL
+        Expérience avec les frameworks et bibliothèques backend couramment utilisés (Express.js, NestJS, etc.)
+        Maîtrise des outils de versioning comme Git
+        Connaissance des principes de conception de l'API RESTful
         </une_liste_de_compétences_requises>
 
         <une_date_de_démarrage>
