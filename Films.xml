@@ -1,0 +1,64 @@
+<!--> Créez 1 fichier XML pour chaque élément de la liste suivante.
+Vous déterminerez vous même les informations à ajouter.
+    films.xml
+        Liste des 5 films projetés dans un cinéma cette semaine avec les jours et heures de projection<!-->
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+<films>
+    <film ID=1>
+        <titre>Captain America : Brave New World</titre>
+        <date>2025-02-19</date>
+        <heures>
+            <heure ID=1>10:45:00</heure>
+            <heure ID=2>13:30:00</heure>
+            <heure ID=3>14:50:00</heure>
+            <heure ID=4>16:15:00</heure>
+            <heure ID=5>17:45:00</heure>
+            <heure ID=6>19:10:00</heure>
+            <heure ID=7>20:30:00</heure>
+            <heure ID=8>21:45:00</heure>
+        </heures>
+    <film>
+        
+    <films ID=2>
+        <titre>Bridget Jones : Folle de lui</titre>
+        <date>2025-02-19</date>
+        <heures>
+            <heure ID=1>10:45:00</heure>
+            <heure ID=2>13:30:00</heure>
+            <heure ID=3>16:15:00</heure>
+            <heure ID=4>19:00:00</heure>
+            <heure ID=5>21:45:00</heure>
+        </heures>
+    
+    <film>
+        <films ID=3>
+        <titre>Daffy et Porky sauvent le monde</titre>
+        <date>2025-02-19</date>
+        <heures>
+            <heure ID=1>11:15:00</heure>
+            <heure ID=2>13:45:00</heure>
+            <heure ID=3>15:45:00</heure>
+         </heures>
+    <film>
+
+    <films ID=4>
+        <titre>The brutalist</titre>
+        <date>2025-02-19</date>
+        <heures>
+            <heure ID=1>10:45:00</heure>
+            <heure ID=2>13:50:00</heure>
+            <heure ID=3>16:05:00</heure>
+            <heure ID=4>18:00:00</heure>
+            <heure ID=5>20:15:00</heure>
+        </heures>
+
+    <films ID=5>
+        <titre>Le dernier souffle</titre>
+        <date>2025-02-19</date>
+        <heures>
+            <heure ID=1>18:15:00</heure>
+        </heures>
+
+</films>
