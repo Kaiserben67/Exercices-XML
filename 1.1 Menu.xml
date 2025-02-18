@@ -1,0 +1,28 @@
+<!--> Créer un document menu.xml correspondant à la description ci-dessous :
+Le menu propose 2 entrées, 3 plats et 2 desserts.
+Chaque entrée, plat et dessert possède un nom, un prix et une description.
+Exemple de plat :
+    Steak Frites Salade
+    12.99 €
+    Un steak de 120 grammes accompagné de frites fraiches et quelques feuilles de salades assaisonnées<!--> 
+
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Menus>
+
+    <Menu id="1">
+        <entrée>Salade</entrée>
+        <plat>Brochette de poulet</plat>
+        <dessert>Tiramisu</ddessert>
+        <prix>12.99 € </sprix>
+    <Menu>
+
+    <Menu id="2">
+        <entrée>Soupe</entrée>
+        <plat>Brochette d'agneau</plat>
+        <dessert>1981-08-04</ddessert>
+        <prix>Flan</prix>
+    <Menu>
+
+<Menus>

@@ -1,0 +1,86 @@
+<!--> Me faire un XML et un JSON des stagiaires : Stagiaire : id,Nom, Prénom, dateDeNaissance 
+(au format américain), section (ex:ABC, Dev) 
+Mettre 5 jeux de données <!-->
+ 
+
+<?xml version="1.0" encoding="UTF-8"?>
+<stagiares>
+    
+    <stagiaire id="1">
+        <nom>Alemany</nom>
+        <prenom>Justin</prenom>
+        <dateDeNaissance>1981-08-04</dateDeNaissance>
+        <section>ABC Dév</section>
+    </stagiaire>
+
+    <stagiaire id="2">
+        <nom>Biehler</nom>
+        <prenom>Caroline</prenom>
+        <date_de_naissance>1981-08-04</dateDeNaissance>
+        <section>ABC Dév</section>
+    </stagiaire>
+
+    <stagiaire id="3">
+        <nom>Cetin</nom>
+        <prenom>Hülya</prenom>
+        <date_de_naissance>1981-08-04</dateDeNaissance>
+        <section>ABC Dév</section>
+    </stagiaire>
+    
+    <stagiaire id="4">
+        <nom>De Brito</nom>
+        <prenom>Jessy</prenom>
+        <date_de_naissance>1981-08-04</dateDeNaissance>
+        <section>ABC Dév</section>
+    </stagiaire>
+
+    <stagiaire id="5">
+        <nom>Del</nom>
+        <prenom>Michael</prenom>
+        <date_de_naissance>1981-08-04</dateDeNaissance>
+        <section>ABC Dév</section>
+    </stagiaire>
+
+    <stagiaire id="6">
+        <nom>Gehin</nom>
+        <prenom>Frédéric</prenom>
+        <date_de_naissance>1981-08-04</dateDeNaissance>
+        <section>ABC Dév</section>
+    </stagiaire>
+
+    <stagiaire id="7">
+        <nom>Godbillot</nom>
+        <prenom>Bruno</prenom>
+        <date_de_naissance>1981-08-04</dateDeNaissance>
+        <section>ABC Dév</section>
+    </stagiaire>
+
+    <stagiaire id="8">
+        <nom>Humery</nom>
+        <prenom>Ludovic</prenom>
+        <date_de_naissance>1981-08-04</dateDeNaissance>
+        <section>ABC Dév</section>
+    </stagiaire>
+
+    <stagiaire id="9">
+        <nom>Lahmar</nom>
+        <prenom>Mohamed</prenom>
+        <date_de_naissance>1981-08-04</dateDeNaissance>
+        <section>ABC Dév</section>
+    </stagiaire>
+
+    <stagiaire id="10">
+        <nom>Morabiti</nom>
+        <prenom>Abdelaziz</prenom>
+        <date_de_naissance>1981-08-04</dateDeNaissance>
+        <section>ABC Dév</section>
+    </stagiaire>
+
+    <stagiaire id="11">
+        <nom>Thieux</nom>
+        <prenom>Dylan</prenom>
+        <date_de_naissance>1981-08-04</dateDeNaissance>
+        <section>ABC Dév</section>
+    </stagiaire>
+
+</stagiares>
