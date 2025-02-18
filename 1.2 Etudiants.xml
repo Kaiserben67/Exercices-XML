@@ -5,44 +5,37 @@ Chaque etudiant possède : nom, prénom, date de naissance, adresse email.<!-->
 
 <?xml version="1.0" encoding="UTF-8"?>
 
-<Etudiants>
-  <Etudiant id="1">
-        <nom>Alemany</nom>
-        <prenom>Justin</prenom>
-        <date_de_naissance>1981-08-04</dateDeNaissance>
-        <adresse_email>justin@live.fr</adresse_email>
-        <Formations>
-            <intitulé_formation>ABC Dév</intitulé_formation>
-            <durée_en_mois>5</durée_en_mois>
-            <date de démarrage>2024-09-23</date de démarrage>
-            <date de fin>2025-02-28</date de fin>
-        <Formations>
-    </Etudiant>
+<Formations>
 
-    <Etudiant id="2">
-        <nom>Biehler</nom>
-        <prenom>Caroline</prenom>
-        <date_de_naissance>1981-08-04</dateDeNaissance>
-        <adresse_email>caro@live.fr</adresse_email>
-        <Formations>
-            <intitulé_formation>ABC Dév</intitulé_formation>
-            <durée_en_mois>5</durée_en_mois>
-            <date de démarrage>2024-09-23</date de démarrage>
-            <date de fin>2025-02-28</date de fin>
-        <Formations>
-   </Etudiant>
+    <Formation>
 
-    <Etudiant id="2">
-        <nom>Cetin</nom>
-        <prenom>Hülya</prenom>
-        <date_de_naissance>1981-08-04</dateDeNaissance>
-        <adresse_email>hülya@live.fr</adresse_email>
-        <Formations>
-            <intitulé_formation>ABC Dév</intitulé_formation>
-            <durée_en_mois>5</durée_en_mois>
-            <date de démarrage>2024-09-23</date de démarrage>
-            <date de fin>2025-02-28</date de fin>
-        <Formations>
-    </Etudiant>
+        <intitulé_formation>ABC Dév</intitulé_formation>
+        <durée_en_mois>5</durée_en_mois>
+        <date de démarrage>2024-09-23</date de démarrage>
+        <date de fin>2025-02-28</date de fin>
+        
+        <Etudiant id="1">
+            <nom>Alemany</nom>
+            <prenom>Justin</prenom>
+            <date_de_naissance>1981-08-04</dateDeNaissance>
+            <adresse_email>justin@live.fr</adresse_email>
+        <Etudiant>
+        
+        <Etudiant id="2">
+            <nom>Biehler</nom>
+            <prenom>Caroline</prenom>
+            <date_de_naissance>1981-08-04</dateDeNaissance>
+            <adresse_email>caro@live.fr</adresse_email>
+        <Etudiant>
 
-</Etudiants>
+        <Etudiant id="3">
+            <nom>Cetin</nom>
+            <prenom>Hülya</prenom>
+            <date_de_naissance>1981-08-04</dateDeNaissance>
+            <adresse_email>hülya@live.fr</adresse_email>
+        <Etudiant>
+
+</Formations>
+  
+  
+  

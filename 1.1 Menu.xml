@@ -12,17 +12,36 @@ Exemple de plat :
 <Menus>
 
     <Menu id="1">
-        <entrée>Salade</entrée>
-        <plat>Brochette de poulet</plat>
-        <dessert>Tiramisu</ddessert>
-        <prix>12.99 €</prix>
+        
+        <entrée id="1">Salade verte</entrée>
+        <description>Une salade fraîche avec des légumes de saison.</description> 
+        
+        <entrée id="2">Soupe à l'oignon</entrée>
+        <description>Soupe traditionnelle à l'oignon gratinée.</description>
+
+        
+        <plat id="1">Steak Frites Salade</plat>
+        <description>Un steak de 120 grammes accompagné de frites fraîches et quelques feuilles de salades assaisonnées.</description>
+        
+        <plat id="2">Poulet Rôti</plat>
+        <description>Poulet rôti servi avec des légumes de saison</description>
+        
+        <plat id="3">Pâtes Carbonara</plat>
+        <description>Pâtes avec une sauce crémeuse au bacon et parmesan.</description>
+
+        
+        <dessert id="1">Tarte</dessert>
+        <description>Tarte aux pommes caramélisées servie chaude.</description>
+        
+        <dessert id="2">Mousse au Chocolat</dessert>
+        <description>Mousse légère au chocolat noir.</description>
+          
+
+        <prix>14.99 €</prix>
+
     </Menu>
 
-    <Menu id="2">
-        <entrée>Soupe</entrée>
-        <plat>Brochette d'agneau</plat>
-        <dessert>Flan</ddessert>
-        <prix>14.99 €</prix>
-    </Menu>
+</Menus>
+
 
 <Menus>
