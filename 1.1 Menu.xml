@@ -15,14 +15,14 @@ Exemple de plat :
         <entrée>Salade</entrée>
         <plat>Brochette de poulet</plat>
         <dessert>Tiramisu</ddessert>
-        <prix>12.99 € </sprix>
-    <Menu>
+        <prix>12.99 €</prix>
+    </Menu>
 
     <Menu id="2">
         <entrée>Soupe</entrée>
         <plat>Brochette d'agneau</plat>
-        <dessert>1981-08-04</ddessert>
-        <prix>Flan</prix>
-    <Menu>
+        <dessert>Flan</ddessert>
+        <prix>14.99 €</prix>
+    </Menu>
 
 <Menus>

@@ -1,0 +1,48 @@
+<!--> Créer un document etudiants.xml correspondant à la description ci-dessous :
+Ce document contient une liste d’etudiants (au moins 3) qui suivent une formation.
+La formation possède un intitulé, une durée en mois, une date de démarrage et une date de fin.
+Chaque etudiant possède : nom, prénom, date de naissance, adresse email.<!--> 
+
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Etudiants>
+  <Etudiant id="1">
+        <nom>Alemany</nom>
+        <prenom>Justin</prenom>
+        <date_de_naissance>1981-08-04</dateDeNaissance>
+        <adresse_email>justin@live.fr</adresse_email>
+        <Formations>
+            <intitulé_formation>ABC Dév</intitulé_formation>
+            <durée_en_mois>5</durée_en_mois>
+            <date de démarrage>2024-09-23</date de démarrage>
+            <date de fin>2025-02-28</date de fin>
+        <Formations>
+    </Etudiant>
+
+    <Etudiant id="2">
+        <nom>Biehler</nom>
+        <prenom>Caroline</prenom>
+        <date_de_naissance>1981-08-04</dateDeNaissance>
+        <adresse_email>caro@live.fr</adresse_email>
+        <Formations>
+            <intitulé_formation>ABC Dév</intitulé_formation>
+            <durée_en_mois>5</durée_en_mois>
+            <date de démarrage>2024-09-23</date de démarrage>
+            <date de fin>2025-02-28</date de fin>
+        <Formations>
+   </Etudiant>
+
+    <Etudiant id="2">
+        <nom>Cetin</nom>
+        <prenom>Hülya</prenom>
+        <date_de_naissance>1981-08-04</dateDeNaissance>
+        <adresse_email>hülya@live.fr</adresse_email>
+        <Formations>
+            <intitulé_formation>ABC Dév</intitulé_formation>
+            <durée_en_mois>5</durée_en_mois>
+            <date de démarrage>2024-09-23</date de démarrage>
+            <date de fin>2025-02-28</date de fin>
+        <Formations>
+    </Etudiant>
+
+</Etudiants>
