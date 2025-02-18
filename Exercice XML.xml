@@ -4,7 +4,7 @@ Mettre 5 jeux de données <!-->
  
 
 <?xml version="1.0" encoding="UTF-8"?>
-<stagiares>
+<stagiaires>
     
     <stagiaire id="1">
         <nom>Alemany</nom>
@@ -83,4 +83,4 @@ Mettre 5 jeux de données <!-->
         <section>ABC Dév</section>
     </stagiaire>
 
-</stagiares>
+</stagiaires>

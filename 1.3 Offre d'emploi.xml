@@ -1,0 +1,120 @@
+<!--> Créer un document emplois.xml correspondant à la description ci-dessous :
+Ce document contient une liste d’offres d’emploi.
+Vous devez représenter 3 offres d’emploi:
+    Développeur PHP à Paris.
+    Développeur JAVA à Mulhouse.
+    Développeur NodeJS à Toulouse.
+Pour chaque offre d’emploi, indiquez dans cet ordre :
+    L’intitulé
+    La ville
+    Une description du poste (tâches, avantages, profil recherché)
+    Une liste de compétences requises (au moins 5 compétences pour chaque offre d’emploi)
+    Une date de démarrage
+    Un salaire annuel
+    Une adresse email de contact
+Les compétences que vous ajouterez pour chacune des offres doivent correspondre au poste.
+Faites quelques recherches d’offres d’emploi de développeurs sur le web pour vous aider à les identifier.<!--> 
+
+
+<?xml_version="1.0"_encoding="UTF-8"?>
+
+<offres_d_emplois>
+    
+    <offre_d_emploi>
+
+        <offre_d_emploi Id="1">
+        <l_intitulé>
+        Développeur PHP à Paris.
+        </l_intitulé>
+
+        <la_ville>
+        Paris
+        </la_ville>
+
+        <une_description_du_poste>
+
+        </une_description_du_poste>
+
+        <une_liste_de_compétences_requises>
+
+        </une_liste_de_compétences_requises>
+
+        <une_date_de_démarrage>
+        2025/03/01
+        </une_date_de_démarrage>
+
+        <un_salaire_annuel>
+        50 000€
+        </un_salaire_annuel>
+
+        <une_adresse_email_de_contact>
+        dev1@live.fr
+        </une_adresse_email_de_contact>
+    <offre_d_emploi>
+
+    <offre_d_emploi Id="2">
+        <l_intitulé>
+        Développeur JAVA à Mulhouse
+        </l_intitulé>
+
+        <la_ville> 
+        Mulhouse
+        </la_ville>
+        
+        <une_description_du_poste>
+        Développement front-end, Back-end, Fullstack,... Ca vous parle ?
+        Nous rejoindre, c est intégrer une communauté technique animée aussi bien par le défi de répondre
+        aux enjeux de nos clients en proposant des solutions innovantes, que le partage entre pairs autour
+        des dernières tendances technologiques et le développement des compétences grâce aux nombreuses
+        formations et certifications proposées.
+        </une_description_du_poste>
+
+        <une_liste_de_compétences_requises>
+        Maîtrise du développement en Java
+        Connaissance des bases de données relationnelles (SQL Server, MySQL, PostgreSQL)
+        Méthodologies agiles, Scrum, DevOps, TDD
+        La maîtrise de l anglais professionnel
+        Être le garant de la qualité du code
+        </une_liste_de_compétences_requises>
+
+        <une_date_de_démarrage>
+        2025/03/01
+        </une_date_de_démarrage>
+
+        <un_salaire_annuel>
+        40 000€
+        </un_salaire_annuel>
+
+        <une_adresse_email_de_contact>
+        dev2@live.fr
+        </une_adresse_email_de_contact>
+    <offre_d_emploi>
+
+    <offre_d_emploi Id="3">
+        <l_intitulé>
+        Développeur NodeJS à Toulouse
+        </l_intitulé>
+
+        <la_ville>
+        Toulouse
+        </la_ville>
+
+        <une_description_du_poste>
+        </une_description_du_poste>
+
+        <une_liste_de_compétences_requises>
+        </une_liste_de_compétences_requises>
+
+        <une_date_de_démarrage>
+        2025/03/01
+        </une_date_de_démarrage>
+
+        <un_salaire_annuel>
+        45 000€
+        </un_salaire_annuel>
+
+        <une_adresse_email_de_contact>
+        dev3@live.fr
+        </une_adresse_email_de_contact>
+    
+<offres_d_emplois>
