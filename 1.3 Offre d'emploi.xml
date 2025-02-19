@@ -23,14 +23,8 @@ Faites quelques recherches d’offres d’emploi de développeurs sur le web pou
     <offre_d_emploi>
 
         <offre_d_emploi Id="1">
-        <l_intitulé>
-        Developpeur PHP à Paris.
-        </l_intitulé>
-
-        <la_ville>
-        Paris
-        </la_ville>
-
+        <l_intitulé>Developpeur PHP à Paris</l_intitulé>
+        <la_ville>Paris</la_ville>
         <une_description_du_poste>
         Vous êtes passionné(e) par le développement fullstack et souhaitez évoluer dans un environnement 
         stimulant, au sein d une entreprise innovante ? A Streetcar, filiale d Ulysse Transport spécialisée
@@ -48,27 +42,17 @@ Faites quelques recherches d’offres d’emploi de développeurs sur le web pou
         Être le garant de la qualité du code
         </une_liste_de_compétences_requises>
 
-        <une_date_de_démarrage>
-        2025/03/01
-        </une_date_de_démarrage>
+        <une_date_de_démarrage>2025/03/01</une_date_de_démarrage>
 
-        <un_salaire_annuel>
-        50 000€
-        </un_salaire_annuel>
+        <un_salaire_annuel>50 000€</un_salaire_annuel>
 
-        <une_adresse_email_de_contact>
-        dev1@live.fr
-        </une_adresse_email_de_contact>
-    <offre_d_emploi>
+        <une_adresse_email_de_contact>dev1@live.fr</une_adresse_email_de_contact>
+    </offre_d_emploi>
 
     <offre_d_emploi Id="2">
-        <l_intitulé>
-        Developpeur JAVA à Mulhouse
-        </l_intitulé>
+        <l_intitulé>Developpeur JAVA à Mulhouse</l_intitulé>
 
-        <la_ville> 
-        Mulhouse
-        </la_ville>
+        <la_ville>Mulhouse</la_ville>
         
         <une_description_du_poste>
         Développement front-end, Back-end, Fullstack,... Ca vous parle ?
@@ -86,27 +70,17 @@ Faites quelques recherches d’offres d’emploi de développeurs sur le web pou
         Être le garant de la qualité du code
         </une_liste_de_compétences_requises>
 
-        <une_date_de_démarrage>
-        2025/03/01
-        </une_date_de_démarrage>
+        <une_date_de_démarrage>2025/03/01</une_date_de_démarrage>
 
-        <un_salaire_annuel>
-        40 000€
-        </un_salaire_annuel>
+        <un_salaire_annuel>40 000€</un_salaire_annuel>
 
-        <une_adresse_email_de_contact>
-        dev2@live.fr
-        </une_adresse_email_de_contact>
-    <offre_d_emploi>
+        <une_adresse_email_de_contact>dev2@live.fr</une_adresse_email_de_contact>
+    </offre_d_emploi>
 
     <offre_d_emploi Id="3">
-        <l_intitulé>
-        Developpeur NodeJS à Toulouse
-        </l_intitulé>
+        <l_intitulé>Developpeur NodeJS à Toulouse</l_intitulé>
 
-        <la_ville>
-        Toulouse
-        </la_ville>
+        <la_ville>Toulouse</la_ville>
 
         <une_description_du_poste>
         Au sein d une équipe dynamique et passionnée par les nouvelles technologies où la collaboration et
@@ -127,16 +101,11 @@ Faites quelques recherches d’offres d’emploi de développeurs sur le web pou
         Connaissance des principes de conception de l'API RESTful
         </une_liste_de_compétences_requises>
 
-        <une_date_de_démarrage>
-        2025/03/01
-        </une_date_de_démarrage>
+        <une_date_de_démarrage>2025/03/01</une_date_de_démarrage>
 
-        <un_salaire_annuel>
-        45 000€
-        </un_salaire_annuel>
+        <un_salaire_annuel>45 000€</un_salaire_annuel>
 
-        <une_adresse_email_de_contact>
-        dev3@live.fr
-        </une_adresse_email_de_contact>
+        <une_adresse_email_de_contact>dev3@live.fr</une_adresse_email_de_contact>
+    </offre_d_emploi>
     
 <offres_d_emplois>

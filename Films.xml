@@ -19,7 +19,7 @@ Vous déterminerez vous même les informations à ajouter.
             <heure ID=7>20:30:00</heure>
             <heure ID=8>21:45:00</heure>
         </heures>
-    <film>
+    </film>
         
     <films ID=2>
         <titre>Bridget Jones : Folle de lui</titre>
@@ -31,6 +31,7 @@ Vous déterminerez vous même les informations à ajouter.
             <heure ID=4>19:00:00</heure>
             <heure ID=5>21:45:00</heure>
         </heures>
+      </film>
     
     <film>
         <films ID=3>
@@ -41,7 +42,7 @@ Vous déterminerez vous même les informations à ajouter.
             <heure ID=2>13:45:00</heure>
             <heure ID=3>15:45:00</heure>
          </heures>
-    <film>
+    </film>
 
     <films ID=4>
         <titre>The brutalist</titre>
@@ -53,6 +54,7 @@ Vous déterminerez vous même les informations à ajouter.
             <heure ID=4>18:00:00</heure>
             <heure ID=5>20:15:00</heure>
         </heures>
+    </film>
 
     <films ID=5>
         <titre>Le dernier souffle</titre>
@@ -60,5 +62,6 @@ Vous déterminerez vous même les informations à ajouter.
         <heures>
             <heure ID=1>18:15:00</heure>
         </heures>
-
+    </film>
+    
 </films>
