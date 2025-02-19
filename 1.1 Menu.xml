@@ -10,43 +10,47 @@ Exemple de plat :
 <?xml version="1.0" encoding="UTF-8"?>
 
 <menus>
+          
+    <entrees>
+        <entree id="1">Salade verte</entrée>
+        <description>Une salade fraîche avec des légumes de saison.</description>
+        <prix_devise="euros">4.99€</prix>
+        </entree>
 
-    <menu>
-        
-        <entrees>
-            <entree id="1">Salade verte</entrée>
-            <description>Une salade fraîche avec des légumes de saison.</description>
-            <prix_devise="euros">4.99€<prix>
-            
-            <entree id="2">Soupe à l'oignon</entrée>
-            <description>Soupe traditionnelle à l'oignon gratinée.</description>
-            <prix_devise="euros">4.99€<prix>
-        </entrees>
+        <entree id="2">Soupe à l'oignon</entrée>
+        <description>Soupe traditionnelle à l'oignon gratinée.</description>
+        <prix_devise="euros">4.99€</prix>
+        </entree>
+    </entrees>
 
-        <plats>
-            <plat id="1">Steak Frites Salade</plat>
-            <description>Un steak de 120 grammes accompagné de frites fraîches et quelques feuilles de salades assaisonnées.</description>
-            <prix_devise="euros">6.99€<prix>
+    <plats>
+        <plat id="1">Steak Frites Salade</plat>
+        <description>Un steak de 120 grammes accompagné de frites fraîches et quelques feuilles de salades assaisonnées.</description>
+        <prix_devise="euros">6.99€</prix>
+        </plat>
 
-            <plat id="2">Poulet Rôti</plat>
-            <description>Poulet rôti servi avec des légumes de saison</description>
-            <prix_devise="euros">6.99€<prix>
+        <plat id="2">Poulet Rôti</plat>
+        <description>Poulet rôti servi avec des légumes de saison</description>
+        <prix_devise="euros">6.99€</prix>
+        </plat>
 
-            <plat id="3">Pâtes Carbonara</plat>
-            <description>Pâtes avec une sauce crémeuse au bacon et parmesan.</description>
-            <prix_devise="euros">6.99€<prix>
-        </plats>
-        
-        <desserts>
-            <dessert id="1">Tarte</dessert>
-            <description>Tarte aux pommes caramélisées servie chaude.</description>
-            <prix_devise="euros">3.99€<prix>
+        <plat id="3">Pâtes Carbonara</plat>
+        <description>Pâtes avec une sauce crémeuse au bacon et parmesan.</description>
+        <prix_devise="euros">6.99€</prix>
+        </plat>
+    </plats>
+    
+    <desserts>
+        <dessert id="1">Tarte</dessert>
+        <description>Tarte aux pommes caramélisées servie chaude.</description>
+        <prix_devise="euros">3.99€</prix>
+        </dessert>
 
-            <dessert id="2">Mousse au Chocolat</dessert>
-            <description>Mousse légère au chocolat noir.</description>
-            <prix_devise="euros">3.99€<prix>
-        </desserts>
+        <dessert id="2">Mousse au Chocolat</dessert>
+        <description>Mousse légère au chocolat noir.</description>
+        <prix_devise="euros">3.99€</prix>
+        </dessert>
+    </desserts>
 
-    </menu>
 
 </menus>
