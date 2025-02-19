@@ -12,31 +12,35 @@ Chaque etudiant possède : nom, prénom, date de naissance, adresse email.<!-->
 
         <intitulé_formation>ABC Dév</intitulé_formation>
         <durée_en_mois>5</durée_en_mois>
-        <date de démarrage>2024-09-23</date de démarrage>
-        <date de fin>2025-02-28</date de fin>
+        <date_de_démarrage>2024-09-23</date_de_démarrage>
+        <date_de_fin>2025-02-28</date_de_fin>
         
-        <etudiant id="1">
-            <nom>Alemany</nom>
-            <prenom>Justin</prenom>
-            <date_de_naissance>1981-08-04</dateDeNaissance>
-            <adresse_email>justin@live.fr</adresse_email>
-        <etudiant>
-        
-        <etudiant id="2">
-            <nom>Biehler</nom>
-            <prenom>Caroline</prenom>
-            <date_de_naissance>1981-08-04</dateDeNaissance>
-            <adresse_email>caro@live.fr</adresse_email>
-        <etudiant>
+        <etudiants>
+           
+            <etudiant id="1">
+                <nom>Alemany</nom>
+                <prenom>Justin</prenom>
+                <date_de_naissance>1981-08-04</date_de_naissance>
+                <adresse_email>justin@live.fr</adresse_email>
+            </etudiant>
+            
+            <etudiant id="2">
+                <nom>Biehler</nom>
+                <prenom>Caroline</prenom>
+                <date_de_naissance>1981-08-04</daate_de_naissance>
+                <adresse_email>caro@live.fr</adresse_email>
+            </etudiant>
 
-        <etudiant id="3">
-            <nom>Cetin</nom>
-            <prenom>Hülya</prenom>
-            <date_de_naissance>1981-08-04</dateDeNaissance>
-            <adresse_email>hülya@live.fr</adresse_email>
-        <etudiant>
+            <etudiant id="3">
+                <nom>Cetin</nom>
+                <prenom>Hülya</prenom>
+                <date_de_naissance>1981-08-04</ate_de_naissance>
+                <adresse_email>hülya@live.fr</adresse_email>
+            </etudiant>
+       
+       </etudiants>
 
-    <formation>       
+    </formation>       
 
 </formations>
   
