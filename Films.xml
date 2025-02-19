@@ -21,7 +21,7 @@ Vous déterminerez vous même les informations à ajouter.
         </heures>
     </film>
         
-    <films ID=2>
+    <film ID=2>
         <titre>Bridget Jones : Folle de lui</titre>
         <date>2025-02-19</date>
         <heures>
@@ -34,7 +34,7 @@ Vous déterminerez vous même les informations à ajouter.
       </film>
     
     <film>
-        <films ID=3>
+        <film ID=3>
         <titre>Daffy et Porky sauvent le monde</titre>
         <date>2025-02-19</date>
         <heures>
@@ -63,5 +63,5 @@ Vous déterminerez vous même les informations à ajouter.
             <heure ID=1>18:15:00</heure>
         </heures>
     </film>
-    
+
 </films>
